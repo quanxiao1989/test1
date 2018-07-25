@@ -1,0 +1,9 @@
+D:\AutoBrushOrder\AutoBrushOrder\bin\Debug\AutoBrushOrder.exe.config
+D:\AutoBrushOrder\AutoBrushOrder\bin\Debug\AutoBrushOrder.exe
+D:\AutoBrushOrder\AutoBrushOrder\bin\Debug\AutoBrushOrder.pdb
+D:\AutoBrushOrder\AutoBrushOrder\obj\Debug\AutoBrushOrder.csprojResolveAssemblyReference.cache
+D:\AutoBrushOrder\AutoBrushOrder\obj\Debug\AutoBrushOrder.Form1.resources
+D:\AutoBrushOrder\AutoBrushOrder\obj\Debug\AutoBrushOrder.Properties.Resources.resources
+D:\AutoBrushOrder\AutoBrushOrder\obj\Debug\AutoBrushOrder.csproj.GenerateResource.Cache
+D:\AutoBrushOrder\AutoBrushOrder\obj\Debug\AutoBrushOrder.exe
+D:\AutoBrushOrder\AutoBrushOrder\obj\Debug\AutoBrushOrder.pdb
